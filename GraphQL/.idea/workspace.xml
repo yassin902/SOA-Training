@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebc41600-be83-4e67-9c87-09f310387cce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/graphql-settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15c7248b8da42665c5d640626a872b8b84f5830f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/4310b2c62c7700b3b44fb2ce055e312ed784b97b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/607fc79c110c8030222bee392c8d23f2dd2dbd80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/7693f33928d19cc6ba5f1f1138db809b00c11712" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/996c1cb42613ac486e51883e177659297039b381" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b37e7e8276a2e7e4ac95a2cdafd366f6bb9fc1e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e31a5c720e1902408ef5e9a1903fcd11b4c3d8a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/5/15c7248b8da42665c5d640626a872b8b84f5830f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/3/4310b2c62c7700b3b44fb2ce055e312ed784b97b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/0/607fc79c110c8030222bee392c8d23f2dd2dbd80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/6/7693f33928d19cc6ba5f1f1138db809b00c11712" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/9/996c1cb42613ac486e51883e177659297039b381" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/3/b37e7e8276a2e7e4ac95a2cdafd366f6bb9fc1e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/3/e31a5c720e1902408ef5e9a1903fcd11b4c3d8a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_GraphQL_Workshop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GraphQLEndPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/business/ModuleBusiness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/business/UniteEnseignementBusiness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Module.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/UniteEnseignement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphql/MutationResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/graphql/QueryResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/schema.graphql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/classes/GraphQLEndPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/classes/business/ModuleBusiness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/classes/business/UniteEnseignementBusiness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/classes/entities/Module$TypeModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/classes/entities/Module.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/classes/entities/UniteEnseignement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/classes/graphql/MutationResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/classes/graphql/QueryResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/classes/schema.graphql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/antlr4-runtime-4.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/asm-5.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/commons-io-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/generics-resolver-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/graphql-java-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/graphql-java-servlet-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/graphql-java-tools-3.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/guava-21.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.8.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-core-2.8.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-databind-2.8.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-datatype-jdk8-2.8.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-module-kotlin-2.8.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/kotlin-reflect-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/kotlin-stdlib-1.1.3-2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/reflectasm-1.11.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GraphQlLogement-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GraphQLEndPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/business/ModuleBusiness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/business/UniteEnseignementBusiness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entities/Module$TypeModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entities/Module.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entities/UniteEnseignement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/graphql/MutationResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/graphql/QueryResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/schema.graphql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3LmVyLYMWDN8LgEX4UvLE1XTR0C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "workshop-graphQL",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebc41600-be83-4e67-9c87-09f310387cce" name="Changes" comment="" />
+      <created>1794059484263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794059484263</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
