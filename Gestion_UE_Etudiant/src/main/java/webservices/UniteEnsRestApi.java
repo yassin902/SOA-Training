@@ -34,7 +34,6 @@ public class UniteEnsRestApi {
             return Response.status(400).entity("Erreur").build();
         }
     }
-
     // 1) Récupérer une UE par son code : GET /ue/get/{code}
     @Path("/get/{code}")
     @GET
