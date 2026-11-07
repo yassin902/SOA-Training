@@ -80,5 +80,5 @@ public class Module {
         this.uniteEnseignement = uniteEnseignement;
     }
 
-
+import javax.xml.bind.annotation.XmlRootElement;
 }

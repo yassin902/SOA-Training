@@ -1,5 +1,6 @@
 package entities;
-
+import java.util.Objects;
+@XmlRootElement(name = "uniteEnseignement")
 public class UniteEnseignement {
     private int code;
     private String domaine;
@@ -57,6 +58,17 @@ public class UniteEnseignement {
     public void setSemestre(int semestre) {
         this.semestre = semestre;
     }
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Module module = (Module) o;
+        return Objects.equals(matricule, module.matricule);
+    }
 
+    @Override
+    public int hashCode() {
+        return Objects.hash(matricule);
+    }
 
 }
